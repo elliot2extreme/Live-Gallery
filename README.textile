@@ -6,4 +6,4 @@ Markus Buch (www.imaze.de), Marco Becker (www.lvl3.de)
 
 h2. Description
 
-Android Live Wallpaper Demo App coded at the Majug² Android Code Camp
+Android Live Wallpaper Demo App coded at the majug² Android Code Camp
